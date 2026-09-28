@@ -2,6 +2,8 @@
 
 Разрабатываю прикладные инструменты автоматизации на Python: OCR, обработку документов, сбор структурированных данных и экспорт результатов в Excel.
 
+[Открыть страницу-портфолио](https://alexandrela191-hub.github.io/alexandrela191-hub/)
+
 ## Проекты
 
 ### [OCR Studio](https://github.com/alexandrela191-hub/OCR-Studio)
