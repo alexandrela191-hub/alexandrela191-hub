@@ -13,7 +13,9 @@
 
 Пример: [RUMS Rooms Exporter](https://github.com/alexandrela191-hub/RUMS-Rooms-Exporter) — поиск объектов, получение сведений о помещениях и формирование Excel-отчёта.
 
-**Предложить задачу:** [создать обращение на GitHub](https://github.com/alexandrela191-hub/RUMS-Rooms-Exporter/issues/new). Кратко опишите источник, нужные данные, формат результата и сроки. Обращение будет публичным: не размещайте пароли, персональные данные и конфиденциальные файлы. Стоимость и сроки обсуждаются после изучения задачи.
+**Связаться в Telegram:** [@Sane4ek](https://t.me/Sane4ek)
+
+**Предложить задачу через GitHub:** [создать обращение на GitHub](https://github.com/alexandrela191-hub/RUMS-Rooms-Exporter/issues/new). Кратко опишите источник, нужные данные, формат результата и сроки. Обращение будет публичным: не размещайте пароли, персональные данные и конфиденциальные файлы. Стоимость и сроки обсуждаются после изучения задачи.
 
 **Available for data extraction projects:** Python, web data collection, APIs, OCR, browser automation and Excel reports. [Open an issue](https://github.com/alexandrela191-hub/RUMS-Rooms-Exporter/issues/new) to discuss your project.
 
